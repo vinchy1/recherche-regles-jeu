@@ -1,5 +1,7 @@
 # recherche-regles-jeu — skill Claude Code
 
+> **Dépôt archivé.** Cette skill fait désormais partie du plugin Claude Code [**regles-jeu**](https://github.com/vinchy1/regles-jeu) (skills `rechercher` et `traduire`), avec tout son historique. Installation : `/plugin marketplace add vinchy1/regles-jeu`, puis `/plugin install regles-jeu@regles-jeu`.
+
 Trouve sur internet le **livret de règles d'un jeu** dont on donne simplement le nom, et l'enregistre sur le PC
 en **PDF intégral** : le PDF de l'éditeur tel quel, ou les règles affichées sur des pages web mises en PDF sans
 rien couper. Elle propose ensuite de le traduire en français avec la skill
